@@ -1,3 +1,4 @@
 # sample-repo
 kame git practice
-1. update
+
+update to practice git from clone to merge
